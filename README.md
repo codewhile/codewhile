@@ -5,7 +5,6 @@
     - Email: dev.viniciusmello@gmail.com
     - Phone Number: +(55) 21 98996-9706
     - Whatsapp: https://wa.me/qr/WRFDZENSPC3IB1
-digo
 - ✨ Published Projects:
     - https://play.google.com/store/apps/details?id=com.viniciusmello.escalonamento
 
