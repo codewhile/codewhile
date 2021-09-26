@@ -6,6 +6,7 @@
     - Phone Number: +(55) 21 98996-9706
     - Whatsapp: https://wa.me/qr/WRFDZENSPC3IB1
 - ✨ Published Projects:
+- Aplicativo que usa conceitos de Álgebra Linear para resolver matrizes de até 2550 números
     - https://play.google.com/store/apps/details?id=com.viniciusmello.escalonamento
 
 - ✨ Objetivo desse repositório
