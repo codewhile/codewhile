@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning kotlin
 - 📫 How to reach me: 
-    - Email: dev.viniciusmello@gmail.com
+    - Email: marcus-mello@outlook.com
     - Phone Number: +(55) 21 98996-9706
     - Whatsapp: https://wa.me/qr/WRFDZENSPC3IB1
 - ✨ Published Projects:
